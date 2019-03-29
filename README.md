@@ -13,7 +13,7 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 ```
 $ npm run watch
-``
+
 ```
 
 # but im using
@@ -28,9 +28,9 @@ npm list --depth 0
 # edman li ye tonton
 
 ```
-npm init -y                 ( . JSON)
-npm install (if necesary)
-npm install webpack --save-dev
-npm list --depth 0
+$ npm init -y                 ( . JSON)
+$ npm install (if necesary)
+$ npm install webpack --save-dev
+$ npm list --depth 0
 
 ```
