@@ -19,5 +19,8 @@
   "homepage": "https://github.com/EdManDev/Neural-Nets#readme",
   "devDependencies": {
     "webpack": "^4.29.6"
+  },
+  "dependencies": {
+    "npm-watch": "^0.6.0"
   }
 }
