@@ -1,0 +1,23 @@
+{
+  "name": "Neural-Nets",
+  "version": "1.0.0",
+  "description": "Quick start:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdManDev/Neural-Nets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdManDev/Neural-Nets/issues"
+  },
+  "homepage": "https://github.com/EdManDev/Neural-Nets#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6"
+  }
+}

@@ -24,3 +24,13 @@ npm install webpack --save-dev
 npm list --depth 0
 
 ```
+
+# edman li ye tonton
+
+```
+npm init -y                 ( . JSON)
+npm install (if necesary)
+npm install webpack --save-dev
+npm list --depth 0
+
+```
